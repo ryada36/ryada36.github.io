@@ -1,0 +1,19 @@
+@import url("./vendors/bootstrap.min.css");
+/* change theme from below import */
+@import url("./themes/default.css");
+@import url("base.css");
+@import url("layout.css");
+@import url("./components/index.css");
+
+/* vendor overrides */
+.container {
+  @media screen and (min-width: 1500px) {
+    max-width: 1440px;
+  }
+}
+.hero-banner {
+  display: flex;
+  height: 620px;
+  background: url("../assets/bg-large.jpeg") no-repeat center center;
+  background-size: cover;
+}

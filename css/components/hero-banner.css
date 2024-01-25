@@ -37,4 +37,5 @@
 .content__image img {
   width: 592px;
   height: 592px;
+  margin-top: -120px;
 }

@@ -45,7 +45,7 @@ header .call-us-wrapper {
   margin-right: 50px;
 }
 .logo-wrapper img {
-  height: 48px;
+  height: 60px;
   border-radius: 50%;
 }
 .nav-wrapper .nav-options {
@@ -55,5 +55,4 @@ header .call-us-wrapper {
 }
 .nav-options a {
   color: var(--link--primary-color);
-  font-weight: 600;
 }

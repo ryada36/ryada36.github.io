@@ -6,7 +6,7 @@ header .call-us-wrapper {
   display: flex;
   flex-grow: 1;
   background-color: var(--background-color-secondary);
-  height: 40px;
+  height: 60px;
   color: var(--text-secondary-color);
   position: fixed;
   width: 100%;
@@ -18,8 +18,8 @@ header .call-us-wrapper {
 .call-us-wrapper .row {
   display: flex;
   align-items: center;
-  font-size: 14px;
-  font-weight: 300;
+  font-size: 20px;
+  font-weight: 700;
 }
 .call-us-wrapper .row > .col {
   display: flex;

@@ -1,0 +1,16 @@
+.actions-wrapper {
+  display: flex;
+}
+
+.button {
+  display: flex;
+  padding: 16px 30px;
+  background-color: var(--button-primary-background-color);
+  color: var(--button-primary-text-color);
+  border-radius: 37px;
+}
+a.button:hover {
+  background-color: var(--button-primary-background-color);
+  color: var(--button-primary-text-color) !important;
+  text-decoration: none;
+}

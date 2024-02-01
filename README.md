@@ -1,2 +1,2 @@
 # store
-Azhar electronic store
+Azhar electronic store.
